@@ -20,7 +20,7 @@ body {
   background-color: var(--bg);
   background-image: url('/images/diamond.svg');
   background-repeat: repeat;
-  background-size: 1800px 1300px;
+  background-size: 2560px 1440px;
   color: var(--text);
   font-family: var(--body-font);
   font-size: 1rem;
